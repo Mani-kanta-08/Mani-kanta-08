@@ -1,14 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Manikanta Kodithala 👋
 
-**Mani-kanta-08/Mani-kanta-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Currently working on C++ programs and software development
+- 🏋️‍♂️ Enthusiastic about fitness and programming, aiming to build tech solutions for a healthier lifestyle
+- 📚 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Programming Languages:** C, C++, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📌 Projects
+- 💰 **Bank Cashier Note Counter (C++)** - A program using inheritance to assist bank cashiers in counting notes efficiently.
+- 🏋️ **FITAA (Java)** - A fitness-based application to help users track their workouts and nutrition.
+
+## 📫 Connect with Me
+- 💌 Email: manikantakodithala@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/manikanta-kodithala-911362287/](https://www.linkedin.com/in/manikanta-kodithala-911362287/)
+- 🐙 GitHub: [https://github.com/Mani-kanta-08](https://github.com/Mani-kanta-08)
+
+Let's build something amazing together! 🚀
+
+
